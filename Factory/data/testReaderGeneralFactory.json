@@ -1,0 +1,17 @@
+{
+    "workers": [
+        {
+          "number of tasks completed": 0,
+          "name": "amy",
+          "hourly rate": 1,
+          "hours worked": 0
+        },
+        {
+          "number of tasks completed": 0,
+          "name": "zoe",
+          "hourly rate": 2,
+          "hours worked": 0
+        }
+    ],
+    "name": "MyFactory"
+}
